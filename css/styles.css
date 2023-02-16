@@ -7,9 +7,11 @@
     box-sizing: border-box;
 } 
 
+
 body {
     background-color:#a6c36f;;
     font-family: 'Roboto Condensed', sans-serif;
+    min-height: 100vh;
 }
 
 main {
@@ -39,7 +41,7 @@ nav{
 span{
     font-weight: bold;
 }
-a{
+.ulA{
     text-transform: uppercase;
     text-decoration: none;
     margin: 10px;
